@@ -744,7 +744,9 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 
 ---
 
+**Entity Relationship Diagram**
 
+<img width="1430" height="778" alt="Image" src="https://github.com/user-attachments/assets/3505dc52-35df-49ef-a6be-2dc7f9aba3e5" />
 
 
 ---
