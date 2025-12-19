@@ -42,7 +42,7 @@ CREATE TABLE customers
 CREATE TABLE sellers
 (
   seller_id INT PRIMARY KEY,
-  seller_name	VARCHAR(25),
+  seller_name	VARCHAR(25), 
   origin VARCHAR(15)
 );
 
