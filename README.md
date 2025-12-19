@@ -12,7 +12,6 @@ I have worked on analyzing a dataset of over 20,000 sales records from an Amazon
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
-An ERD diagram is included to visually represent the database schema and relationships between tables.
 
 ---
 
@@ -743,10 +742,6 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
 ---
-
-**Entity Relationship Diagram**
-
-<img width="1430" height="778" alt="Image" src="https://github.com/user-attachments/assets/3505dc52-35df-49ef-a6be-2dc7f9aba3e5" />
 
 
 ---
